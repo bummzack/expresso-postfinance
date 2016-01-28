@@ -1,0 +1,3 @@
+[submodule "system/expressionengine/third_party/store_postfinance/Omnipay/Postfinance"]
+	path = system/expressionengine/third_party/store_postfinance/Omnipay/Postfinance
+	url = https://github.com/bummzack/omnipay-postfinance.git
