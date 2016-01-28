@@ -3,7 +3,7 @@
 class Store_postfinance_ext
 {
     public $name = 'Store Postfinance';
-    public $version = '1.0.0';
+    public $version = '0.1.1';
     public $description = 'Postfinance for Expresso Store';
     public $settings_exist = 'n';
     public $docs_url = 'https://github.com/bummzack/expresso-postfinance/';
